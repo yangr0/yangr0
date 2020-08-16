@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey, thanks for stopping by!
 
-<!--
-**iinc0gnit0/iinc0gnit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub
 
-Here are some ideas to get you started:
+I've been passionate programming and InfoSec since 2019 and experienced in Python and currently learning Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment, seeking internships to learn more in programming and cyber security
+
+I run an [instagram account](https://instagram.com/inc0gnit0.offical) and you reach out to me there or at iinc0gnit0@pm.me
+
+
+
+Hope you enjoy my tools and projects!
