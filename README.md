@@ -8,6 +8,8 @@
 
 - 💼 At the moment, seeking internships to learn more in programming and cyber security
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=iinc0gnit0)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Connect with me
 
 ![Instagram](https://img.shields.io/badge/Instagram-inc0gnit0.offical-red) ![Twitter](https://img.shields.io/badge/Twitter-iinc0gnit0-red) ![Email](https://img.shields.io/badge/Email-iinc0gnit0-red)
