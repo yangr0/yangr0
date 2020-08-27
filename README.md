@@ -12,4 +12,4 @@
 
 ## Connect with me
 
-![Instagram](https://img.shields.io/badge/Instagram-inc0gnit0.offical-red) ![Twitter](https://img.shields.io/badge/Twitter-iinc0gnit0-red) ![Email](https://img.shields.io/badge/Email-iinc0gnit0-red)
+![Instagram](https://img.shields.io/badge/Instagram-inc0gnit0.offical-red?style=social&logo=instagram) ![Twitter Follow](https://img.shields.io/badge/Instagram-iinc0gnit0-red?style=social&logo=twitter) ![Email](https://img.shields.io/badge/Email-iinc0gnit0-red?style=social&logo=Protonmail)
