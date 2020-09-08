@@ -6,7 +6,7 @@
 
 - 📝 I am experienced in Python and currently learning Rust
 
-- 💼 At the moment, seeking internships to learn more in programming and cyber security
+- 💼 At the moment, seeking internships to get more experience in programming
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=iinc0gnit0)](https://github.com/anuraghazra/github-readme-stats)
 
