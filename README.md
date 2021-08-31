@@ -6,7 +6,7 @@
 
 - 📝 I am experienced in Python and currently learning Rust
 
-- 💼 At the moment, seeking software engineering job oppurtunities
+- 💼 At the moment, seeking software engineering job opportunities
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=iinc0gnit0)](https://github.com/anuraghazra/github-readme-stats)
 
