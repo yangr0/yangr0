@@ -1,8 +1,8 @@
 # Welcome to my GitHub
 
-- 🌱 I've been passionate programming and InfoSec since 2019 
+- 🌱 I've been passionate about programming and InfoSec since 2019
 
-- 💼 At the moment, seeking software engineering job opportunities
+- 💼 Seeking job opportunities in computer science field
 
 ## Connect with me
 
