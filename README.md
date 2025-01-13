@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-- 🌱 I've been passionate about computers since 2019
+- 🌱 I've been passionate about breaking and building systems since 2019
 
 Learn more about me:
 - [Portfolio](https://yangr0.github.io)
