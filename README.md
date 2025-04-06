@@ -3,7 +3,7 @@
 - passionate about breaking and building systems since 2019
 
 learn more about me:
-- [portfolio](https://yangr0.github.io)
+- [portfolio](https://yangr.xyz)
 - [resume](https://github.com/yangr0/resume)
 
 connect with me:
